@@ -19,7 +19,12 @@ This is a simple Trivia Game built using HTML, CSS, and JavaScript. It's designe
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/joshuadanpeterson/trivia-game.git`
+
+   ```
+   git clone https://github.com/joshuadanpeterson/trivia-game.git
+   ```
+
+
 2. Open `index.html` in your web browser.
 
 ## Usage
